@@ -1,1 +1,3 @@
 .vercel
+# Never commit APK binaries — releases carry AgentA.apk / AgentA-<SHA>.apk assets.
+*.apk
